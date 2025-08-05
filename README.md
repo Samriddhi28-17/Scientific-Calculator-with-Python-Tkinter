@@ -138,7 +138,7 @@ The application can be packaged into a single executable file for Windows using 
 
 - The --icon flag embeds a custom .ico file into the executable.
 
-##💡 Usage Examples
+## 💡 Usage Examples
 
 Here are some examples of expressions you can enter:
 
