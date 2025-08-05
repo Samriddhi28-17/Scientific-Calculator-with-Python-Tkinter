@@ -54,8 +54,8 @@ If you want to explore, modify, or contribute to the code, follow these steps:
 ### Setup Instructions
 1. Clone the Repository:
 
-<git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git>
-<cd YOUR_REPO_NAME # Navigate into the project directory>
+`git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git`
+`cd YOUR_REPO_NAME # Navigate into the project directory`
 
 (Replace YOUR_USERNAME and YOUR_REPO_NAME with your actual GitHub username and repository name.)
 
