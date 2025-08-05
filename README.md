@@ -1,6 +1,7 @@
 # **Scientific Calculator**
 
 [image link]
+
 A robust and user-friendly scientific calculator application built with Python's Tkinter for the graphical interface and NumPy for powerful numerical and matrix operations. This project aims to provide a comprehensive calculator experience, offering basic arithmetic, advanced scientific functions, and linear algebra capabilities.
 
 ## ✨ Features
