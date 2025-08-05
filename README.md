@@ -31,37 +31,28 @@ A robust and user-friendly scientific calculator application built with Python's
 **For End-Users (Windows Executable)**
 You don't need to install Python to run this application on Windows!
 1. Download the Executable:
-  - Go to the Releases section of this GitHub repository.
-  - Download the calculator_gui.zip file containing the calculator_gui.exe from the latest release.
+     - Go to the Releases section of this GitHub repository.
+     - Download the calculator_gui.zip file containing the calculator_gui.exe from the latest release.
+2. Extract the File:
+     - Unzip the downloaded calculator_gui.zip file.
+3. Run the Application:
+     - Navigate to the directory where you extracted calculator_gui.exe.
+     - **Double-click** on the executable.
+     - The Scientific Calculator window should appear.
 
-Extract the File:
+### Troubleshooting for Executable:
+- Antivirus Warning: Your antivirus software might flag the .exe file. This is common for applications compiled with PyInstaller. If prompted, choose to "Allow" or "Run Anyway."
+- Permissions: Ensure you have execution permissions in the download directory. Try moving the .exe to your Desktop or Documents folder if issues persist.
 
-Unzip the downloaded calculator_gui.zip file.
-
-Run the Application:
-
-Navigate to the directory where you extracted calculator_gui.exe.
-
-Double-click on the executable.
-
-The Scientific Calculator window should appear.
-
-Troubleshooting for Executable:
-
-Antivirus Warning: Your antivirus software might flag the .exe file. This is common for applications compiled with PyInstaller. If prompted, choose to "Allow" or "Run Anyway."
-
-Permissions: Ensure you have execution permissions in the download directory. Try moving the .exe to your Desktop or Documents folder if issues persist.
-
-For Developers (Running from Source)
+### For Developers (Running from Source)
 If you want to explore, modify, or contribute to the code, follow these steps:
 
-Prerequisites
-Python 3.8+ installed on your system.
+### Prerequisites
+- Python 3.8+ is installed on your system.
+- Git is installed on your system.
 
-Git installed on your system.
-
-Setup Instructions
-Clone the Repository:
+### Setup Instructions
+1. Clone the Repository:
 
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME # Navigate into the project directory
