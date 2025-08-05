@@ -1,13 +1,13 @@
-**#Scientific Calculator**
+**# Scientific Calculator**
 [image link]
 A robust and user-friendly scientific calculator application built with Python's Tkinter for the graphical interface and NumPy for powerful numerical and matrix operations. This project aims to provide a comprehensive calculator experience, offering basic arithmetic, advanced scientific functions, and linear algebra capabilities.
 
-##✨ Features
+## ✨ Features
 * Basic Arithmetic: Perform standard operations like addition, subtraction, multiplication, and division.
 
-Scientific Functions:
+* Scientific Functions:
 
-Trigonometry: sin, cos, tan, asin, acos, atan (and their hyperbolic counterparts: sinh, cosh, tanh, asinh, acosh, atanh).
+- Trigonometry: sin, cos, tan, asin, acos, atan (and their hyperbolic counterparts: sinh, cosh, tanh, asinh, acosh, atanh).
 
 Logarithms: Natural log (ln), base-10 log (log), and base-2 log (log2).
 
