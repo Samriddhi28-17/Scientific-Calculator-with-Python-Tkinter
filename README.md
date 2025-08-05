@@ -8,44 +8,31 @@ A robust and user-friendly scientific calculator application built with Python's
 * Basic Arithmetic: Perform standard operations like addition, subtraction, multiplication, and division.
 
 * Scientific Functions:
+  - Trigonometry: sin, cos, tan, asin, acos, atan (and their hyperbolic counterparts: sinh, cosh, tanh, asinh, acosh, atanh).
+  - Logarithms: Natural log (ln), base-10 log (log), and base-2 log (log2).
+  - Powers & Roots: Exponentiation (^), square root (sqrt), and cube root (cbrt).
+  - Special Functions: Absolute value (abs), ceiling (ceil), floor (floor), Gamma function (gam), and Factorial (!).
 
--- Trigonometry: sin, cos, tan, asin, acos, atan (and their hyperbolic counterparts: sinh, cosh, tanh, asinh, acosh, atanh).
+- Mathematical Constants: Access to pi, e, and tau.
 
-Logarithms: Natural log (ln), base-10 log (log), and base-2 log (log2).
+- Unit Conversions: Convert angles between degrees (deg) and radians (rad).
 
-Powers & Roots: Exponentiation (^), square root (sqrt), and cube root (cbrt).
+- Matrix Operations: Leverage NumPy for powerful linear algebra functions:
+  - Determinant (det())
+  - Inverse (inv())
+  - Transpose (T or transpose())
+  - Dot Product (dot())
 
-Special Functions: Absolute value (abs), ceiling (ceil), floor (floor), Gamma function (gam), and Factorial (!).
+- Intuitive UI: A clean, dark-themed graphical interface with distinct button colors for enhanced usability.
 
-Mathematical Constants: Access to 
-pi, e, and 
-tau.
+- Robust Error Handling: Provides clear and informative messages for invalid expressions or operations.
 
-Unit Conversions: Convert angles between degrees (deg) and radians (rad).
-
-Matrix Operations: Leverage NumPy for powerful linear algebra functions:
-
-Determinant (det())
-
-Inverse (inv())
-
-Transpose (T or transpose())
-
-Dot Product (dot())
-
-Intuitive UI: A clean, dark-themed graphical interface with distinct button colors for enhanced usability.
-
-Robust Error Handling: Provides clear and informative messages for invalid expressions or operations.
-
-🚀 Getting Started
-For End-Users (Windows Executable)
+## 🚀 Getting Started
+**For End-Users (Windows Executable)**
 You don't need to install Python to run this application on Windows!
-
-Download the Executable:
-
-Go to the Releases section of this GitHub repository.
-
-Download the calculator_gui.zip file containing the calculator_gui.exe from the latest release.
+1. Download the Executable:
+  - Go to the Releases section of this GitHub repository.
+  - Download the calculator_gui.zip file containing the calculator_gui.exe from the latest release.
 
 Extract the File:
 
