@@ -7,7 +7,7 @@ A robust and user-friendly scientific calculator application built with Python's
 
 * Scientific Functions:
 
-- Trigonometry: sin, cos, tan, asin, acos, atan (and their hyperbolic counterparts: sinh, cosh, tanh, asinh, acosh, atanh).
+-- Trigonometry: sin, cos, tan, asin, acos, atan (and their hyperbolic counterparts: sinh, cosh, tanh, asinh, acosh, atanh).
 
 Logarithms: Natural log (ln), base-10 log (log), and base-2 log (log2).
 
